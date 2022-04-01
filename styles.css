@@ -20,16 +20,16 @@ body {
 @keyframes animate {
   0%,
   100% {
-    background-image: url(/spring-5000242_1920.jpg);
+    background-image: url('img/spring-5000242_1920.jpg');
   }
   25% {
-    background-image: url(/pexels-ruvim-3560044.jpg);
+    background-image: url('img/pexels-ruvim-3560044.jpg');
   }
   50% {
-    background-image: url(/pexels-kasuma-1785493.jpg);
+    background-image: url('img/pexels-kasuma-1785493.jpg');
   }
   75% {
-    background-image: url(/pexels-k-zoltan-544554.jpg);
+    background-image: url('img/pexels-k-zoltan-544554.jpg');
   }
 }
 
